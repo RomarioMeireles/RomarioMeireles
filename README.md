@@ -40,8 +40,8 @@
     <a href="mailto:meireles.romario@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style-for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/RomarioMeireles/RomarioMeireles/blob/output/github-contribution-grid-snake.svg)
 <!--
+![Snake animation](https://github.com/RomarioMeireles/RomarioMeireles/blob/output/github-contribution-grid-snake.svg)
 **RomarioMeireles/RomarioMeireles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
