@@ -32,12 +32,15 @@
   <img align="center" alt="Romário-visualstudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg">
   <img align="center" alt="Romário-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Romário-microsoftsqlserver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <br/><br/><img align="center" alt="Romário-yoda" src="https://media.giphy.com/media/eGlWh8b2oDeSuFjGM6/giphy.gif">
 </div><br/>
 <div>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src=""></a>
-
+  <a href="https://www.youtube.com/channel/UCBbKSXVNry_0NI84pvybQVw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://ao.linkedin.com/in/romario-meireles-813a7ba7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="mailto:meireles.romario@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style-for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+![Snake animation](https://github.com/RomarioMeireles/RomarioMeireles/blob/output/github-contribution-grid-snake.svg)
 <!--
 **RomarioMeireles/RomarioMeireles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
